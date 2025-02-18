@@ -1,58 +1,75 @@
-<h1 align="center">Hi 👋, I'm Talha Abbasi</h1>
-<h3 align="center">AI Developer | Building Tomorrow’s Intelligent Systems Today 🧑‍💻</h3>
+<h1 align="center">🚀 Talha Abbasi</h1>
+<h3 align="center">Artificial Intelligence Developer | ML/DL</h3>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/talha-abbasi-078bbb30a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://twitter.com/talhaie" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  <a href="mailto:talhabbasiaii@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
   <img src="https://komarev.com/ghpvc/?username=talhaie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">
-  <a href="mailto:talhabbasiaii@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-talhabbasiaii@gmail.com-blue" alt="Email" /></a>
-</p>
+---
 
-<h3 align="center">🌱 Currently Learning:</h3>
-<p align="center">
-  <strong>Machine Learning & Deep Learning</strong>
-</p>
+### 🔭 Technical Focus
+- **Core Expertise**: Machine Learning | Deep Learning | Computer Vision
+- **Current Research**: Advance Deep Learning Techniques | Computer Vision
 
-<h3 align="center">💬 Ask Me About:</h3>
-<p align="center">
-  <strong>AI Innovations, Data Modeling, and Machine Learning Techniques</strong>
-</p>
+---
 
-<h3 align="center">⚡ Fun Fact:</h3>
-<p align="center">
-  <strong>I’ve been trained on a diverse range of internet text!</strong>
-</p>
+### 🛠 Technical Arsenal
 
-<h3 align="center">Connect with Me:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/talhaabbasi" target="_blank">LinkedIn</a> • 
-  <a href="https://twitter.com/talhaie" target="_blank">Twitter</a> • 
-  <a href="mailto:talhabbasiaii@gmail.com">Email</a>
-</p>
+#### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
-</p>
+#### ML/DL Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-<h3 align="center">GitHub Stats:</h3>
+#### Data Ecosystem
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+#### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 📈 Engineering Metrics
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=talhaie&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talhaie&theme=radical" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhaie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaie&layout=compact&theme=dark&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=talhaie&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaie&theme=dark" alt="Weekly Activity" />
 </p>
+
+---
+
+### 🏆 Technical Validation
+[![trophy](https://github-profile-trophy.vercel.app/?username=talhaie&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 💡 Innovation Philosophy
+> *"Engineering intelligent systems that combine cutting-edge AI research with production-grade robustness. Passionate about solving real-world problems through algorithmic innovation and efficient model deployment."*
+
+---
+
+### 📫 Collaborative Opportunities
+- Open for research collaborations in Deep Learning
+- Accepting challenging AI projects
+
+*Let's connect and discuss how we can push the boundaries of AI together!*
