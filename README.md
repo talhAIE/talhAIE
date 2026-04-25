@@ -1,75 +1,64 @@
-<h1 align="center">🚀 Talha Abbasi</h1>
-<h3 align="center">Artificial Intelligence Developer | ML/DL</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/talha-abbasi-078bbb30a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://twitter.com/talhaie" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-  <a href="mailto:talhabbasiaii@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=talhaie&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<br>
+<br>
 
----
+# M U H A M M A D &nbsp; T A L H A
 
-### 🔭 Technical Focus
-- **Core Expertise**: Machine Learning | Deep Learning | Computer Vision
-- **Current Research**: Advance Deep Learning Techniques | Computer Vision
+#### A I &nbsp; E N G I N E E R
 
----
+<br>
 
-### 🛠 Technical Arsenal
+I design and ship end-to-end AI products —
+from model architecture to backend infrastructure and scalable deployment.
 
-#### Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+<br>
 
-#### ML/DL Frameworks
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-abbasi-078bbb30a/)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-grey?style=flat-square&logo=gmail&logoColor=white)](mailto:talhabbasiaii@gmail.com)
 
-#### Data Ecosystem
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+<br>
 
 ---
 
-### 📈 Engineering Metrics
+<br>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=talhaie&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhaie&layout=compact&theme=dark&langs_count=8"/>
-</p>
+![Python](https://img.shields.io/badge/Python-grey?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-grey?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-grey?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-grey?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-grey?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-grey?style=flat-square&logo=langchain&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-grey?style=flat-square&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-grey?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-grey?style=flat-square&logo=pandas&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=talhaie&theme=dark" alt="Weekly Activity" />
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-grey?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-grey?style=flat-square&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-grey?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-grey?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-grey?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-grey?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-grey?style=flat-square&logo=githubactions&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-grey?style=flat-square&logo=redis&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-grey?style=flat-square&logo=pinecone&logoColor=white)
+
+<br>
+<br>
 
 ---
 
-### 🏆 Technical Validation
-[![trophy](https://github-profile-trophy.vercel.app/?username=talhaie&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<br>
 
----
+*AI Engineering · Backend Systems · System Architecture · Scalable Infrastructure*
 
-### 💡 Innovation Philosophy
-> *"Engineering intelligent systems that combine cutting-edge AI research with production-grade robustness. Passionate about solving real-world problems through algorithmic innovation and efficient model deployment."*
+<br>
+<br>
 
----
-
-### 📫 Collaborative Opportunities
-- Open for research collaborations in Deep Learning
-- Accepting challenging AI projects
-
-*Let's connect and discuss how we can push the boundaries of AI together!*
+</div>
